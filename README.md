@@ -26,3 +26,4 @@
 ***
 ![Mini_Project_page-0014](https://github.com/AmitKumar6k60/Strength_Exercise_Tracking_Model/assets/96468334/f0dd3e0a-eba1-4ed1-91b7-c4d92548e9ed)
 ***
+> **Full ppt (in PDF format) in the folder.**
